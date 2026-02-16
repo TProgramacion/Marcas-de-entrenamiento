@@ -1,0 +1,10 @@
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/bin/Debug/net10.0/MarcasDeEntrenamiento
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/bin/Debug/net10.0/MarcasDeEntrenamiento.dll
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/bin/Debug/net10.0/MarcasDeEntrenamiento.pdb
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/MarcasDeEntrenamiento.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/MarcasDeEntrenamiento.AssemblyInfoInputs.cache
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/MarcasDeEntrenamiento.AssemblyInfo.cs
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/MarcasDeEntrenamiento.csproj.CoreCompileInputs.cache
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/MarcasDeEntrenamiento.dll
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/refint/MarcasDeEntrenamiento.dll
+/Volumes/home/Drive/Aprendre/DAW/Fundamentos programación/PracticaT2/MarcasDeEntrenamiento/MarcasDeEntrenamiento/obj/Debug/net10.0/MarcasDeEntrenamiento.pdb
